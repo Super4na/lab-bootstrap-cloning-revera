@@ -1,0 +1,145 @@
+#header {
+    background-color: white;
+}
+
+.nav-link{
+    color: grey;
+}
+
+#homeButton{
+    color: red;
+}
+
+.carousel-item {
+    filter: grayscale(100%);
+}
+.icon{
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+
+.textoOver{
+    position: absolute;
+    color: white;
+    opacity: 50%;
+    z-index: 1;
+    top: 250px;
+    left: 700px;
+}
+
+.see-more{
+    background: none;
+}
+.websitename{
+    margin-left: 100px;
+}
+
+.carousel-control-prev {
+
+    margin-top: 20%;
+    background-color: rgb(248, 91, 91);
+    width: 50px;
+    height: 50px;
+}
+
+.carousel-control-next {
+    margin-top: 20%;
+    background-color: rgb(248, 91, 91);
+    width:50px;
+    height: 50px;
+}
+
+
+.nav {
+    padding-left: 100px;
+}
+.img {
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.img1 {
+    height: 125px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#projectsImages {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+#introtext {
+    padding-left: 50px;
+    height: 200px;
+    
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+    color: white;
+    background-color: rgb(248, 91, 91);
+}
+
+
+
+#seccao{
+    padding-top: 50px;
+}
+#secondrow {
+    font-size: 20px;
+}
+
+.row2 {
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+#slideshow {
+    background-color: black;
+}
+
+
+#contactinfo {
+    padding-left: 50px;
+    background-color: black;
+}
+
+#footer {
+    height: 100px;
+    padding-top: 20px;
+    padding-left: 50px;
+    background-color: grey;
+}
+
+.rp {
+    color: grey;
+}
+
+
+
+#contactinfo{
+    border-top: 5px solid red;
+    color: grey
+}
+
+
+.footer-link {
+    height: 40px;
+    border-bottom: 1px dashed grey;
+}
+
+.footer-link a {
+    text-decoration: none;
+}
+
+#black-footer {
+    
+    height: 210px;
+}
+
